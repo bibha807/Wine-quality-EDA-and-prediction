@@ -78,7 +78,7 @@ The goal is to build models that can classify or predict wine quality based on t
 - **Baseline Model**: Logistic Regression (~55–60% accuracy).  
 - **Regression R² Score**: ~0.35–0.40 (moderate predictability).  
 - **Key Predictors**: Alcohol, volatile acidity, sulphates, citric acid.
-  Here's the .ipynb file: ![Python code]([https://github.com/bibha807/Wine-quality-EDA-and-prediction/blob/main/winequality-red.csv](https://github.com/bibha807/Wine-quality-EDA-and-prediction/blob/main/Wine%20quality%20EDA%20and%20prediction.ipynb))  
+  **Here's the .ipynb file: ![Python code]([https://github.com/bibha807/Wine-quality-EDA-and-prediction/blob/main/winequality-red.csv](https://github.com/bibha807/Wine-quality-EDA-and-prediction/blob/main/Wine%20quality%20EDA%20and%20prediction.ipynb))  
 
 ---
 
